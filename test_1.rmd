@@ -1,0 +1,12 @@
+---
+title: "Render Test"
+author: "Jose"
+date: "9/19/2018"
+output: html_document
+---
+
+```{r , results="hide"}
+library(tidyverse)
+```
+
+## What is this doing?
